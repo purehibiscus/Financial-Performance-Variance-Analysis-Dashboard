@@ -1,5 +1,7 @@
 # Financial-Performance-Variance-Analysis-Dashboard
 
+**Dashboard Link:** https://app.powerbi.com/links/Eq06yHsMjy?ctid=f9afa6d3-a503-44b2-91da-b801e2cc43b6&pbi_source=linkShare 
+
 **Overview**
 
 This project delivers an executive-level financial analytics dashboard designed to support budget vs actual analysis, variance diagnostics, and trend monitoring.
